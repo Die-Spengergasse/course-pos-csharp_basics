@@ -24,7 +24,7 @@ Suche im Erweiterungs-Manager nach dem Paket `asciidoc-productivity`. Alternativ
 
 == Features
 
-Die vollständige Funktionsliste findest du in der Datei link:asciidoc-productivity/README.md[README.md].
+Die vollständige Funktionsliste findest du auf link:https://github.com/schletz/asciidoc-productivity[github.com/schletz/asciidoc-productivity].
 
 === LLM-Server für AI-Features
 
